@@ -17,8 +17,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-from IPython.display import display
-
 # Graph settings
 sns.set_theme(style="whitegrid")
 plt.rcParams["figure.figsize"] = (10, 6)
